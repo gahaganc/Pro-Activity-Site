@@ -1,0 +1,67 @@
+.wrapper
+{
+ width:984px;
+ margin: 0 auto;
+ border-radius:5px;
+
+}
+#header 
+{
+    clear: both;
+    text-align: center;
+    width: auto;
+    display:inline;
+
+}
+#banner
+{
+    color:#06bcd5;
+    padding:10px 5px 5px 5px;
+
+}
+#nav
+{
+    background-color:#353434;
+    padding:5px;
+    margin-top:-30px;
+}
+#nav a
+{
+    text-decoration:none;
+    color:white;
+}
+#nav a:hover
+{
+    font-weight:bold;
+    color:#06bcd5;
+}
+#nav a:visited
+{
+    font-style:italic;
+}
+.menu
+{
+    display:inline;
+    margin: 10px;
+    color:white;
+}
+#content
+{
+    text-align:center;
+}
+p
+{
+    font-size:21px;
+    
+}
+#footer
+{
+    clear:both;
+    text-align:center;
+    width:auto;
+    margin:1000px 0px 0px 0px;
+}
+.socialmedialink
+{
+    color:blue
+}
